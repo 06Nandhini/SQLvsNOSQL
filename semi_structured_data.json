@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "Alice", "purchases": [{"item": "Laptop", "amount": 1200}]},
+  {"id": 2, "name": "Bob", "purchases": [{"item": "Chair", "amount": 800}]},
+  {"id": 3, "name": "Charlie", "purchases": [{"item": "Phone", "amount": 1500}]},
+  {"id": 4, "name": "Diana", "purchases": [{"item": "Shirt", "amount": 600}]}
+]
